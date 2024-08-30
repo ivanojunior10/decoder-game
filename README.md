@@ -7,7 +7,7 @@ Resultado do primeiro desafio do programa ONE, da Oracle em parceria com a Alura
 - Decodificador de texto com design responsivo feito em HTML, CSS e JavaScript.
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/53119511/182502484-45f07927-fa85-4b5a-b42a-6e9164b75d25.JPG">
+     <img width="600" heigth="600" src="https://ibb.co/t2P2y4f">
 </p>
 
 Chave de Criptografia
